@@ -1,0 +1,1 @@
+var e=`/assets/multi-asset-markets-BuHJKkAs.jpg`;export{e as t};

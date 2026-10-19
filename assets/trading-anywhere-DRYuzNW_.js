@@ -1,0 +1,1 @@
+var e=`/assets/trading-anywhere-DgneW6vF.jpg`;export{e as t};

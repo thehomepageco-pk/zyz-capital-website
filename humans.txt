@@ -1,0 +1,11 @@
+/* TEAM */
+Company: ZYZ Capital Limited
+Site: https://www.zyzcapitalltd.com
+Location: Gros-Islet, Saint Lucia
+Contact: info@zyzcapitalltd.com
+
+/* SITE */
+Standards: HTML5, Schema.org, Open Graph
+Doctype: HTML5
+Language: English
+Registration: Saint Lucia IBC 2024-00712

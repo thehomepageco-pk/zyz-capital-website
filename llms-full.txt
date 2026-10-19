@@ -1,0 +1,19 @@
+# ZYZ Capital — full briefing for answer engines
+
+ZYZ Capital Limited is a registered online brokerage providing execution-only access to leveraged foreign exchange and contracts for difference. It is incorporated in Saint Lucia as an International Business Company (Registration No. 2024-00712).
+
+The registered office is Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. Contact: info@zyzcapitalltd.com.
+
+Products include major, minor and exotic currency pairs; gold, silver and platinum; WTI and Brent crude and natural gas; cash equity indices such as US30, NAS100, SPX500, DAX40, FTSE100, JP225 and HK50; and other CFDs. Trading is offered on MetaTrader 5 across web, Windows desktop, Android and iOS, with a browser WebTrader. New clients register at https://my.zyzcapitalltd.com/live_signup and existing clients log in at https://my.zyzcapitalltd.com/login.
+
+Countries served: ZYZ Capital serves traders in the United Arab Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman and Jordan; Nigeria, South Africa, Ghana, Egypt, Tanzania, Uganda and Zambia; Pakistan, Bangladesh, Sri Lanka and Nepal; and Indonesia, Malaysia, the Philippines, Thailand and Vietnam. Each country has a dedicated page at https://www.zyzcapitalltd.com/forex-broker/{country}/ with local forex session times. Clients are responsible for confirming that leveraged trading is permitted where they live.
+
+Account range:
+- Standard — $10 minimum deposit, spreads from 1.2 pips on EURUSD, 100+ CFD instruments
+- Pro — $5,000 minimum, spreads from 0.0 pips, premium execution
+- Bullion — $20,000 minimum, 0.0 pip pricing and highest-tier execution priority
+- Swap-free / Islamic — available on request, no overnight interest charged or paid
+
+ZYZ Capital LTD provides execution-only services and does not offer investment advice. Trading foreign exchange and CFDs on margin carries a high level of risk and may not be suitable for all investors. Past performance is not indicative of future results.
+
+Canonical site: https://www.zyzcapitalltd.com/

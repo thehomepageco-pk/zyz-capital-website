@@ -1,0 +1,82 @@
+# ZYZ Capital
+
+> ZYZ Capital Limited (ZYZ Capital LTD) is an international online multi-asset brokerage company incorporated in Saint Lucia (Registration No. 2024-00712), offering forex, metals, energies, cash indices and CFD trading on MetaTrader 5.
+
+ZYZ Capital provides execution-only access to global markets for clients across the Gulf and Middle East, Africa, South Asia and Southeast Asia. Accounts start from $10. Swap-free Islamic accounts are available on request.
+
+Official website: https://www.zyzcapitalltd.com/
+Open a live account: https://my.zyzcapitalltd.com/live_signup
+Client login: https://my.zyzcapitalltd.com/login
+WebTrader: https://web.metatrader.app/terminal
+
+## Facts
+
+- Legal name: ZYZ Capital Limited
+- Brand: ZYZ Capital
+- Incorporation: Saint Lucia International Business Company
+- Registration number: 2024-00712
+- Registered office: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia
+- Email: info@zyzcapitalltd.com
+- Platform: MetaTrader 5 (web, Windows, Android, iOS)
+- Minimum deposit: $10 (Standard), $5,000 (Pro), $20,000 (Bullion)
+- Account currency: USD
+
+## Countries served
+
+- Gulf & Middle East: United Arab Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman, Jordan
+- Africa: Nigeria, South Africa, Ghana, Egypt, Tanzania, Uganda, Zambia
+- South Asia: Pakistan, Bangladesh, Sri Lanka, Nepal
+- Southeast Asia: Indonesia, Malaysia, Philippines, Thailand, Vietnam
+
+## Restricted jurisdictions
+
+Afghanistan, Congo, Haiti, Iran, Kenya, Lebanon, Libya, Mali, Myanmar, North Korea (DPRK), Russia, Somalia, South Sudan, Syria, Venezuela, Yemen, and any jurisdiction where offering these services would violate applicable law.
+
+## Pages
+
+- [Home](https://www.zyzcapitalltd.com/): forex and CFD broker overview
+- [About](https://www.zyzcapitalltd.com/about/): who we are
+- [Forex](https://www.zyzcapitalltd.com/forex/): currency pairs and contract specifications
+- [Metals & Energies](https://www.zyzcapitalltd.com/metals-energies/): gold, silver, oil and gas CFDs
+- [Cash Indices](https://www.zyzcapitalltd.com/cash-indices/): US30, NAS100, DAX40 and other indices
+- [CFDs](https://www.zyzcapitalltd.com/cfds/): how leveraged CFD trading works
+- [Account Types](https://www.zyzcapitalltd.com/account-types/): Standard, Pro and Bullion
+- [Trading Platform](https://www.zyzcapitalltd.com/trading-platform/): MetaTrader 5 downloads
+- [Partnership](https://www.zyzcapitalltd.com/partnership/): introducing broker and affiliate program
+- [Countries We Serve](https://www.zyzcapitalltd.com/countries/): local trading hours and details per country
+- [Contact](https://www.zyzcapitalltd.com/contact/): registered office and email
+- [Registration](https://www.zyzcapitalltd.com/license-regulation/): Saint Lucia incorporation
+- [Security of Funds](https://www.zyzcapitalltd.com/security-of-funds/): segregation and negative balance protection
+- [Risk Disclaimer](https://www.zyzcapitalltd.com/risk-disclaimer/): leveraged trading risks
+- [Regional Restrictions](https://www.zyzcapitalltd.com/regional-restrictions/): accepted and excluded countries
+
+## Country pages
+
+- [Forex broker in the United Arab Emirates](https://www.zyzcapitalltd.com/forex-broker/united-arab-emirates/)
+- [Forex broker in Saudi Arabia](https://www.zyzcapitalltd.com/forex-broker/saudi-arabia/)
+- [Forex broker in Qatar](https://www.zyzcapitalltd.com/forex-broker/qatar/)
+- [Forex broker in Kuwait](https://www.zyzcapitalltd.com/forex-broker/kuwait/)
+- [Forex broker in Bahrain](https://www.zyzcapitalltd.com/forex-broker/bahrain/)
+- [Forex broker in Oman](https://www.zyzcapitalltd.com/forex-broker/oman/)
+- [Forex broker in Jordan](https://www.zyzcapitalltd.com/forex-broker/jordan/)
+- [Forex broker in Nigeria](https://www.zyzcapitalltd.com/forex-broker/nigeria/)
+- [Forex broker in South Africa](https://www.zyzcapitalltd.com/forex-broker/south-africa/)
+- [Forex broker in Ghana](https://www.zyzcapitalltd.com/forex-broker/ghana/)
+- [Forex broker in Egypt](https://www.zyzcapitalltd.com/forex-broker/egypt/)
+- [Forex broker in Tanzania](https://www.zyzcapitalltd.com/forex-broker/tanzania/)
+- [Forex broker in Uganda](https://www.zyzcapitalltd.com/forex-broker/uganda/)
+- [Forex broker in Zambia](https://www.zyzcapitalltd.com/forex-broker/zambia/)
+- [Forex broker in Pakistan](https://www.zyzcapitalltd.com/forex-broker/pakistan/)
+- [Forex broker in Bangladesh](https://www.zyzcapitalltd.com/forex-broker/bangladesh/)
+- [Forex broker in Sri Lanka](https://www.zyzcapitalltd.com/forex-broker/sri-lanka/)
+- [Forex broker in Nepal](https://www.zyzcapitalltd.com/forex-broker/nepal/)
+- [Forex broker in Indonesia](https://www.zyzcapitalltd.com/forex-broker/indonesia/)
+- [Forex broker in Malaysia](https://www.zyzcapitalltd.com/forex-broker/malaysia/)
+- [Forex broker in the Philippines](https://www.zyzcapitalltd.com/forex-broker/philippines/)
+- [Forex broker in Thailand](https://www.zyzcapitalltd.com/forex-broker/thailand/)
+- [Forex broker in Vietnam](https://www.zyzcapitalltd.com/forex-broker/vietnam/)
+
+## Optional
+
+- [Full company briefing](https://www.zyzcapitalltd.com/llms-full.txt)
+- [XML sitemap](https://www.zyzcapitalltd.com/sitemap.xml)
